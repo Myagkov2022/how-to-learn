@@ -115,7 +115,7 @@
 
 .two-columns__main-text {
   width: 80%;
-  min-width: 784px
+  min-width: 784px;
 }
 
 .two-columns__paragraph {
@@ -253,10 +253,6 @@
   z-index: 0;
 }
 
-.table_theme_dark {
-
-}
-
 .table__cell_theme_dark {
   width: 200px;
   color: white;
@@ -265,7 +261,6 @@
   text-align: left;
   z-index: 2;
 }
-
 
 /*FOOTER*/
 
